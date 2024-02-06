@@ -1,51 +1,29 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O que é Inteligência Artificial? ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá pessoal aqui é o Wanderson de Jesus Aparecido do UX na Mente e aluno do DIO e no meu projeto criei um vídeo explicando resumidamente o que é Inteligência Artificial utilizando recursos de inteligência artificial como: imagens, textos, legendas e vídeo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Nesse projeto utilizei as seguintes ferramentas.
+
+* Chat GPT = Para criar o texto do vídeo através do prompt
+* Eleven Labs = Para criar a locução do texto em mp3
+* ClipChamp = Para editar o vídeo e legenda
+* Abobe Express = Para a animação dos personagens Edi e Reginaldo
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente fiz uma pesquisa do assunto "IA" no Chat GPT, assim que consegui o texto ideal abri o site do Eleven Labs e colei o texto, escolhi uma vós de locução e pedi para o site criar o arquivo MP3, depois abri o site do Abobe Express e escolhi os dois personagens para animação da locução e criei 1 vídeo de cada personagem com chroma key, feito isso eu precisava juntar tudo e fiz isso no site ClipChamp onde editei o vídeo, legenda e fundo do vídeo de animação. Ficou simples mais fui eu que fiz com IA! 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Vídeo finalizado eu hospedei no Youtube, acesse para ver o resultado: https://www.youtube.com/watch?v=oxiZ9IqZE9w
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
